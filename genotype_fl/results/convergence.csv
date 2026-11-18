@@ -1,0 +1,31 @@
+setup,round,auc
+Centralized,1,0.7401913722478238
+Centralized,2,0.7587845622119815
+Centralized,3,0.7634088581669227
+Centralized,4,0.7655849974398361
+Centralized,5,0.7675851254480287
+Centralized,6,0.7682251664106503
+Centralized,7,0.7688492063492064
+Centralized,8,0.7693932411674347
+Centralized,9,0.7694732462877624
+Centralized,10,0.7697932667690732
+FedAvg (plain),1,0.6823796722990272
+FedAvg (plain),2,0.7591045826932924
+FedAvg (plain),3,0.7620807731694829
+FedAvg (plain),4,0.7647529441884281
+FedAvg (plain),5,0.7666890681003584
+FedAvg (plain),6,0.7671850998463902
+FedAvg (plain),7,0.7682251664106503
+FedAvg (plain),8,0.7687051971326165
+FedAvg (plain),9,0.7691212237583205
+FedAvg (plain),10,0.7690732206861239
+FedAvg + encrypted aggregation,1,0.6823796722990272
+FedAvg + encrypted aggregation,2,0.7591045826932924
+FedAvg + encrypted aggregation,3,0.7620807731694829
+FedAvg + encrypted aggregation,4,0.7647529441884281
+FedAvg + encrypted aggregation,5,0.7666890681003584
+FedAvg + encrypted aggregation,6,0.7671850998463902
+FedAvg + encrypted aggregation,7,0.7682251664106503
+FedAvg + encrypted aggregation,8,0.7687051971326165
+FedAvg + encrypted aggregation,9,0.7691212237583205
+FedAvg + encrypted aggregation,10,0.7690732206861239
